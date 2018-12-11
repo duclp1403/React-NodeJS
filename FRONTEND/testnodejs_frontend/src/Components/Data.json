@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"Nguyễn Văn A",
+        "phone":"01234567899",
+        "projectjoin":"Không có"
+    },
+    {
+        "id":2,
+        "name":"Trần Văn B",
+        "phone":"01234567899",
+        "projectjoin":"Không có"
+    },
+    {
+        "id":3,
+        "name":"Vũ Thị D",
+        "phone":"01234567899",
+        "projectjoin":"Quán Karaoke"
+    },
+    {
+        "id":4,
+        "name":"Nguyễn Văn X",
+        "phone":"01234567899",
+        "projectjoin":"Quản lý khách sạn"
+    },
+    {
+        "id":5,
+        "name":"Hoàng Thị Y",
+        "phone":"01234567899",
+        "projectjoin":"Quản lý nhà hàng"
+    },
+    {
+        "id":6,
+        "name":"Lâm Phú Đức",
+        "phone":"0835191909",
+        "projectjoin":"Chưa biết"
+    }
+]
